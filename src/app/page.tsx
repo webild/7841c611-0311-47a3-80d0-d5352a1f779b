@@ -3,7 +3,7 @@ import { SiteThemeProvider } from '@/components/sections/ThemeProvider';
 import SimpleHero from '@/components/sections/layouts/hero/SimpleHero';
 import SimpleKPIBento from '@/components/bento/SimpleKPIBento';
 import MinimalAbout from '@/components/sections/layouts/about/MinimalAbout';
-import PageNav from '@/components/common/PageNav';
+import { PageNav } from '@/components/common/PageNav';
 import GradientFooter from '@/components/sections/layouts/footer/GradientFooter';
 import React from 'react';
 import Image from 'next/image';
